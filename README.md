@@ -41,7 +41,7 @@
 
 I have made a Handwriting Recognizer of Numbers. It uses the MNIST dataset to train the model using Support Vector Machine. It also uses tkinter to make a drawable canvas.
 
-## :dart: How To Use ##
+## :dart: How To Use #
 
 ### Basic Interface:-
 ![Basic Interface](https://github.com/kanhaiya772/Number-Recognition/blob/228ee58d82c275d8566b390d4f6728006750c48d/media/Basic_Interface.png)
