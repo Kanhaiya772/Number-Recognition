@@ -9,17 +9,17 @@
 <h1 align="center">Handwriting Recognition Using SVM</h1>
 
 <p align="center">
-  <img alt="Github Top Language" src="https://img.shields.io/github/languages/top/kanhiya772/Number-Recognition?color=56BEB8">
+  <img alt="Github Top Language" src="https://img.shields.io/github/languages/top/kanhaiya772/Number-Recognition?color=56BEB8">
 
-  <img alt="Github Language Count" src="https://img.shields.io/github/languages/count/kanhiya772/Number-Recognition?color=56BEB8">
+  <img alt="Github Language Count" src="https://img.shields.io/github/languages/count/kanhaiya772/Number-Recognition?color=56BEB8">
 
-  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/kanhiya772/Number-Recognition?color=56BEB8">
+  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/kanhaiya772/Number-Recognition?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/kanhiya772/Number-Recognition?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/kanhaiya772/Number-Recognition?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/kanhiya772/Number-Recognition?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/kanhaiya772/Number-Recognition?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/kanhiya772/Number-Recognition?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/kanhaiya772/Number-Recognition?color=56BEB8" /> -->
 </p>
 
 
@@ -32,7 +32,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-Made-By">Made By</a> &#xa0; | &#xa0;
-  <a href="https://github.com/kanhiya772" target="_blank">Author</a>
+  <a href="https://github.com/kanhaiya772" target="_blank">Author</a>
 </p>
 
 <br>
@@ -44,10 +44,10 @@ I have made a Handwriting Recognizer of Numbers. It uses the MNIST dataset to tr
 ## :dart: How To Use ##
 
 ### Basic Interface:-
-![Basic Interface](https://github.com/kanhiya772/Number-Recognition/blob/228ee58d82c275d8566b390d4f6728006750c48d/media/Basic_Interface.png)
+![Basic Interface](https://github.com/kanhaiya772/Number-Recognition/blob/228ee58d82c275d8566b390d4f6728006750c48d/media/Basic_Interface.png)
 
 ### Recognition of Number:-
-![Recognition of Number](https://github.com/kanhiya772/Number-Recognition/blob/151ec5de306667780710e748f6af7ea46633337a/media/Code_Run.gif)
+![Recognition of Number](https://github.com/kanhaiya772/Number-Recognition/blob/151ec5de306667780710e748f6af7ea46633337a/media/Code_Run.gif)
 
 
 
@@ -73,7 +73,7 @@ Before starting, you need to have [Git](https://git-scm.com) & basic Machine Lea
 
 ```bash
 # Clone this project
-$ git clone https://github.com/kanhiya772/Number-Recognition.git
+$ git clone https://github.com/kanhaiya772/Number-Recognition.git
 
 # Access
 $ cd Number-Recognition
@@ -88,7 +88,7 @@ $ jupyter nbconvert --execute NumberRecognition.ipynb
 
 ## :memo: Made By ##
 
-Made with :heart: by <a href="https://github.com/kanhiya772" target="_blank">kanhiya772</a>
+Made with :heart: by <a href="https://github.com/kanhaiya772" target="_blank">kanhaiya772</a>
 
 &#xa0;
 
